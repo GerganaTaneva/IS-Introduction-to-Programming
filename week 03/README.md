@@ -1,0 +1,1 @@
+tasks with switch and ternary operator
