@@ -1,2 +1,2 @@
 # IS-Introduction-to-Programming
- tasks from week 2 : )
+ tasks for deviding numbers, if : )
