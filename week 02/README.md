@@ -1,2 +1,2 @@
 # IS-Introduction-to-Programming
- tasks for deviding numbers, if : )
+ tasks for dividing numbers, if : )
