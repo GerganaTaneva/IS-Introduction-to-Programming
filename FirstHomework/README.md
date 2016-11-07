@@ -1,0 +1,1 @@
+Homework: tasks about if, switch, ternary
